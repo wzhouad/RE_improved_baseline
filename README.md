@@ -1,6 +1,6 @@
 # RE_improved_baseline
 
-Code for technical report [An Improved Baseline for Sentence-level Relation Extraction](https://arxiv.org/abs/2102.01373).
+Code for technical report "[An Improved Baseline for Sentence-level Relation Extraction](https://arxiv.org/abs/2102.01373)".
 
 ## Requirements
 * torch >= 1.8.1
